@@ -1,6 +1,4 @@
 <h1 align="center">Taskify</h1>
-![image](https://user-images.githubusercontent.com/47911791/173187178-e9d32eba-5deb-4de7-bab0-c4f7112258b4.png)
-
 ## Features ✨
 
 - Drag & drop tasks
@@ -48,11 +46,3 @@ npm start
 ```
 
 Your browser should open up to a running app.
-
-## License
-
-Licensed under the MIT license.
-
----
-
-👉 [View Live](https://kanbann-board.netlify.app/)
