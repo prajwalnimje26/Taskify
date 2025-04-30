@@ -1,7 +1,4 @@
 <h1 align="center">Taskify</h1>
-
-👉 [View Live](https://kanbann-board.netlify.app/)
-
 ![image](https://user-images.githubusercontent.com/47911791/173187178-e9d32eba-5deb-4de7-bab0-c4f7112258b4.png)
 
 ## Dark Mode
