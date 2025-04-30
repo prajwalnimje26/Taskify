@@ -39,7 +39,7 @@ npm run install
 Once the dependencies are installed, you can run the app:
 
 ```sh
-cd kanban-board
+cd Taskify
 yarn start
 # or
 npm start
